@@ -6,7 +6,8 @@
 
 |Statements| C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
 |:---:|:---:|:---:|:---:||:---:|:---:|:---:||:---:|:---:|:---:|
-| Declare Variable || ```java
+| Declare Variable || 
+```java
 int variable;
 string variable;
 ```
