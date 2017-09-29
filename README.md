@@ -8,14 +8,13 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
-| Declare Variable || 
+| Declare Variable | - | - | - | - | - | - | - | - | - |
+| Array Length | - | - | - | - | - | - | - | - | - |
+| If/Else | - | - | - | - | - | - | - | - | - |
+| Switch Cases | - | - | - | - | - | - | - | - | - |
+| - | - | - | - | - | - | - | - | - | - |
 
 ```c++
 int variable;
 string variable;
 ```
-|||||||||||
-| Array Length |
-| If/Else |
-| Switch Cases |
-
