@@ -6,7 +6,7 @@
 
 |Statements| C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Declare Variable | - | - | - | - | - | - | - | - | - |
+| Declare Variable | - | - | - | - | `var variable` | - | - | - | - |
 | Array Length | - | - | - | - | - | - | - | - | - |
 | If/Else | - | - | - | - | - | - | - | - | - |
 | Switch Cases | - | - | - | - | - | - | - | - | - |
