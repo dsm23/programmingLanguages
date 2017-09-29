@@ -7,7 +7,7 @@
 |Statements| C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
 |:---:|:---:|:---:|:---:||:---:|:---:|:---:||:---:|:---:|:---:|
 | Declare Variable || 
-```cpp
+```c++
 int variable;
 string variable;
 ```
