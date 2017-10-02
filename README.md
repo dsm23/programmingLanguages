@@ -14,11 +14,17 @@
 
 * [Arrays](#arrays)
 
-* [For Loop](#for-loop)
+* [For Loops](#for-loops)
 
-* [While Loop](#while-loop)
+* [While Loops](#while-loops)
 
 * [Functions](#functions)
+
+* [Objects](#objects)
+
+* [Inheritance](#inheritance)
+
+* [Constructors](#constructors)
 
 ## Hello World!
 
@@ -474,7 +480,7 @@ def func(a,b):
 ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
-## Objects/Classes
+## Objects
 
 ##### C
 ```c
