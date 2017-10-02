@@ -4,17 +4,17 @@
 
 ## Contents
 
-* [Hello World]{#hello-world!}
+* [Hello World](#hello-world!)
 
-* [Declare Variable]{#declare-variables}
+* [Declare Variable](#declare-variables)
 
-* [If Statements]{#if-statements}
+* [If Statements](#if-statements)
 
-* [Switch Statements]{#switch-statements}
+* [Switch Statements](#switch-statements)
 
-* [Arrays]{#arrays}
+* [Arrays](#arrays)
 
-* [Functions]{#functions}
+* [Functions](#functions)
 
 ## Hello World!
 
