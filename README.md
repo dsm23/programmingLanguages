@@ -717,8 +717,8 @@ catch (ExceptionType) {
 |Statements			| C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
 |:---:				|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Hello World! 		| ➤ | ➤ | ➤ | [➤](#user-content-java) | [➤](#user-content-javascript) | ➤ | ➤ | ➤ | ➤ |
-| Declare Variable 	| ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | ➤ | ➤ | ➤ | ➤ |
-| If/Else 			| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Declare Variable 	| ➤ | ➤ | ➤ | [➤](#user-content-java-1) | [➤](#user-content-javascript-1) | ➤ | ➤ | ➤ | ➤ |
+| If/Else 			| ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | ➤ | ➤ | ➤ | ➤ |
 | Switch Cases 		| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
 | Arrays 			| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
 | For Loops 		| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
