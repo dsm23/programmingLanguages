@@ -316,7 +316,7 @@ System.out.println(arr.length);
 
 ##### Javascript
 ```javascript
-arr = [];
+var arr = [];
 
 console.log(arr.length);
 ```
