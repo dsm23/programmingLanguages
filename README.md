@@ -203,7 +203,7 @@ else {
 
 ##### Pascal
 
-#####PHP
+##### PHP
 ```php
 
 ```
@@ -719,14 +719,14 @@ catch (ExceptionType) {
 | Hello World! 		| ➤ | ➤ | ➤ | [➤](#user-content-java) | [➤](#user-content-javascript) | ➤ | ➤ | ➤ | ➤ |
 | Declare Variable 	| ➤ | ➤ | ➤ | [➤](#user-content-java-1) | [➤](#user-content-javascript-1) | ➤ | ➤ | ➤ | ➤ |
 | If/Else 			| ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | ➤ | ➤ | ➤ | ➤ |
-| Switch Cases 		| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Arrays 			| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| For Loops 		| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| While Loops 		| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Functions 		| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Objects 			| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Inheritance 		| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Constructors 		| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Exception Handlers | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Switch Cases 		| ➤ | ➤ | ➤ | [➤](#user-content-java-3) | [➤](#user-content-javascript-3) | ➤ | ➤ | ➤ | ➤ |
+| Arrays 			| ➤ | ➤ | ➤ | [➤](#user-content-java-4) | [➤](#user-content-javascript-4) | ➤ | ➤ | ➤ | ➤ |
+| For Loops 		| ➤ | ➤ | ➤ | [➤](#user-content-java-5) | [➤](#user-content-javascript-5) | ➤ | ➤ | ➤ | ➤ |
+| While Loops 		| ➤ | ➤ | ➤ | [➤](#user-content-java-6) | [➤](#user-content-javascript-6) | ➤ | ➤ | ➤ | ➤ |
+| Functions 		| ➤ | ➤ | ➤ | [➤](#user-content-java-7) | [➤](#user-content-javascript-7) | ➤ | ➤ | ➤ | ➤ |
+| Objects 			| ➤ | ➤ | ➤ | [➤](#user-content-java-8) | [➤](#user-content-javascript-8) | ➤ | ➤ | ➤ | ➤ |
+| Inheritance 		| ➤ | ➤ | ➤ | [➤](#user-content-java-9) | [➤](#user-content-javascript-9) | ➤ | ➤ | ➤ | ➤ |
+| Constructors 		| ➤ | ➤ | ➤ | [➤](#user-content-java-10) | [➤](#user-content-javascript-10) | ➤ | ➤ | ➤ | ➤ |
+| Exception Handlers | ➤ | ➤ | ➤ | [➤](#user-content-java-11) | [➤](#user-content-javascript-11) | ➤ | ➤ | ➤ | ➤ |
 
 
