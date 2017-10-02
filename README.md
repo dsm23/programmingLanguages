@@ -4,9 +4,54 @@
 
 ## Contents
 
+* [Hello World]{#hello-world!}
+
 * [Declare Variable]{#declare-variables}
 
 * [If Statements]{#if-statements}
+
+* [Switch Statements]{#switch-statements}
+
+* [Arrays]{#arrays}
+
+* [Functions]{#functions}
+
+## Hello World!
+
+C
+
+C++
+
+C#
+
+Java
+```java
+public class Main {
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
+}
+```
+
+Javascript
+```javascript
+alert("Hello World!");
+console.log("Hello World!");
+document.write("Hello World!");
+```
+
+Pascal
+
+PHP
+
+Python
+```python
+print("Hello World!")
+```
+
+Ruby
+```ruby
+puts("Hello World!")
 
 ## Declare Variables
 
@@ -16,6 +61,8 @@ C++
 ```cpp
 int integer = 0;
 string string = "Hello World";
+bool boolean = true;
+bool boolean2(false);
 ```
 
 C#
@@ -54,6 +101,17 @@ C++
 C#
 
 Java
+```java
+if (comparator){
+	...
+}
+else if {
+	...
+}
+else {
+	...
+}
+```
 
 Javascript
 ```javascript
@@ -84,7 +142,87 @@ else:
 
 Ruby
 
+## Switch Statements
+
 ## Arrays
+
+C
+
+C++
+
+C#
+
+Java
+
+Javascript
+
+Pascal
+
+PHP
+
+Python
+
+Ruby
+
+## Functions
+
+C
+
+C++
+
+C#
+
+Java
+
+Javascript
+
+Pascal
+
+PHP
+
+Python
+
+Ruby
+
+## Objects/Classes
+
+C
+
+C++
+
+C#
+
+Java
+
+Javascript
+
+Pascal
+
+PHP
+
+Python
+
+Ruby
+
+## Constructors
+
+C
+
+C++
+
+C#
+
+Java
+
+Javascript
+
+Pascal
+
+PHP
+
+Python
+
+Ruby
 
 |Statements| C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
