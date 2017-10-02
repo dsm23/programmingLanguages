@@ -14,15 +14,48 @@
 
 * [Arrays](#arrays)
 
+* [For Loop](#for-loop)
+
+* [While Loop](#while-loop)
+
 * [Functions](#functions)
 
 ## Hello World!
 
 C
+```c
+#include<stdio.h>
+
+main()
+{
+	printf("Hello World\n");
+
+}
+```
 
 C++
+```cpp
+#include <iostream>
+
+int main() 
+{
+    std::cout << "Hello, World!\n";
+    return 0;
+}
+```
 
 C#
+```c#
+using System;
+
+class Program
+{
+	static void Main(string[] args)
+	{
+		Console.WriteLine("Hello World!");
+	}
+}
+```
 
 Java
 ```java
@@ -43,6 +76,9 @@ document.write("Hello World!");
 Pascal
 
 PHP
+```php
+echo "Hello World!\n";
+```
 
 Python
 ```python
@@ -153,14 +189,25 @@ C++
 C#
 
 Java
+int arr[] = new int[10];
 
 Javascript
+```javascript
+arr = [];
+
+console.log(arr.length);
+```
 
 Pascal
 
 PHP
 
 Python
+```python
+arr = []
+
+print(len(arr))
+```
 
 Ruby
 
@@ -173,14 +220,29 @@ C++
 C#
 
 Java
+```java
+public static int func(int a, int b) {
+	...
+	return 0;
+}
+```
 
 Javascript
+```javascript
+function func(a,b) {
+	...
+}
+```
 
 Pascal
 
 PHP
 
 Python
+```python
+def func(a,b):
+	...
+```
 
 Ruby
 
