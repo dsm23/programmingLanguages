@@ -149,11 +149,20 @@ Ruby
 
 ## If Statements
 
-C
+##### C
+```c
 
-C++
+```
 
-C#
+##### C++
+```cpp
+
+```
+
+##### C#
+```c#
+
+```
 
 Java
 ```java
@@ -199,11 +208,20 @@ Ruby
 
 ## Switch Statements
 
-C
+##### C
+```c
 
-C++
+```
 
-C#
+##### C++
+```cpp
+
+```
+
+##### C#
+```c#
+
+```
 
 Java
 
@@ -250,80 +268,102 @@ Ruby
 
 ## Arrays
 
-C
+##### C
 ```c
 
 ```
 
-C++
+##### C++
+```cpp
 
+```
 
+##### C#
+```c#
 
-C#
+```
 
-Java
+##### Java
 ```java
 int arr[] = new int[10];
 
 System.out.println(arr.length);
 ```
 
-Javascript
+##### Javascript
 ```javascript
 arr = [];
 
 console.log(arr.length);
 ```
 
-Pascal
+##### Pascal
 
-PHP
+##### PHP
 ```php
 
 ```
 
-Python
+##### Python
 ```python
 arr = []
 
 print(len(arr))
 ```
 
-Ruby
-
+##### Ruby
 ```ruby
 
 ```
 
 ## For Loops
 
-C++
+##### C
+```c
+
+```
+
+##### C++
 ```cpp
 for (int i = a; i < b; i++) {}
 ```
 
-Java
+##### C#
+```c#
+
+```
+
+##### Java
 ```java
 for (int i = a; i < b; i++) {}
 ```
 
-Javascript
+##### Javascript
 ```javascript
 for (var i = a; i < b; i++) {}
 ```
 
-Python
+##### Python
 ```python
 for i in range(a,b):
 ```
 
 ## While Loops
 
-C
+##### C
+```c
 
-C++
+```
 
-C#
+##### C++
+```cpp
+
+```
+
+##### C#
+```c#
+
+```
 
 Java
 
@@ -348,11 +388,20 @@ Ruby
 
 ## Functions
 
-C
+##### C
+```c
 
-C++
+```
 
-C#
+##### C++
+```cpp
+
+```
+
+##### C#
+```c#
+
+```
 
 Java
 ```java
@@ -383,11 +432,20 @@ Ruby
 
 ## Objects/Classes
 
-C
+##### C
+```c
 
-C++
+```
 
-C#
+##### C++
+```cpp
+
+```
+
+##### C#
+```c#
+
+```
 
 Java
 ```java
@@ -409,13 +467,66 @@ obj2.name = "David";
 obj2.age = 24;
 ```
 
-Pascal
+##### Pascal
 
-PHP
+##### PHP
+```php
 
-Python
+```
 
-Ruby
+##### Python
+```python
+
+```
+
+##### Ruby
+```ruby
+
+```
+
+## Inheritance
+
+##### C
+```c
+
+```
+
+##### C++
+```cpp
+
+```
+
+##### C#
+```c#
+
+```
+
+##### Java
+```java
+
+```
+
+##### Javascript
+```javascript
+
+```
+
+##### Pascal
+
+##### PHP
+```php
+
+```
+
+##### Python
+```python
+
+```
+
+##### Ruby
+```ruby
+
+```
 
 ## Constructors
 
@@ -461,12 +572,70 @@ Ruby
 
 ```
 
+## Exception Handlers
+
+##### C
+```c
+
+```
+
+##### C++
+```cpp
+
+```
+
+##### C#
+```c#
+
+```
+
+##### Java
+```java
+try {
+	...
+}
+catch (ExceptionType) {
+	...
+}
+```
+
+##### Javascript
+```javascript
+
+```
+
+##### Pascal
+
+##### PHP
+```php
+
+```
+
+##### Python
+```python
+
+```
+
+##### Ruby
+```ruby
+
+```
+
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 |Statements| C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Hello World! | - | - | - | - | - | - | - | - | - |
 | Declare Variable | - | - | - | - | `var variable` | - | - | - | - |
-| Array Length | - | - | - |`array.length` | `array.length` | - | - | - | - |
 | If/Else | - | - | - | - | - | - | - | - | - |
 | Switch Cases | - | - | - | - | - | - | - | - | - |
-| - | - | - | - | - | - | - | - | - | - |
+| Arrays | - | - | - |`array.length` | `array.length` | - | - | - | - |
+| For Loops | - | - | - | - | - | - | - | - | - |
+| While Loops | - | - | - | - | - | - | - | - | - |
+| Functions | - | - | - | - | - | - | - | - | - |
+| Objects | - | - | - | - | - | - | - | - | - |
+| Inheritance | - | - | - | - | - | - | - | - | - |
+| Constructors | - | - | - | - | - | - | - | - | - |
+| Exception Handlers | - | - | - | - | - | - | - | - | - |
 
 
