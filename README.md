@@ -4,9 +4,9 @@
 
 ## Contents
 
-* [Hello World](#hello-world!)
+* [Hello World](#hello-world)
 
-* [Declare Variable](#declare-variables)
+* [Declare Variables](#declare-variables)
 
 * [If Statements](#if-statements)
 
