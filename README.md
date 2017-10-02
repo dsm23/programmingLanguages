@@ -95,6 +95,7 @@ print("Hello World!")
 ```ruby
 puts("Hello World!")
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Declare Variables
 
@@ -288,7 +289,12 @@ switch (variable):
 		break;
 ```
 
-Ruby
+##### Ruby
+```ruby
+
+```
+
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Arrays
 
@@ -404,20 +410,33 @@ for i in range(a,b):
 
 ```
 
-Java
-
-Javascript
-```javascript
+##### Java
+```java
 while (comparator) {
 	...
 }
 ```
 
-Pascal
+##### Javascript
+```javascript
+while (comparator) {
+	...
+}
 
-PHP
+do {
+    ...
+}
+while (comparator);
+```
 
-Python
+##### Pascal
+
+##### PHP
+```php
+
+```
+
+##### Python
 ```python
 while (comparator):
 	...
@@ -554,7 +573,11 @@ obj2.age = 24;
 
 ##### Java
 ```java
+public class Child extends Parent {}
 
+public class Car extends Vehicle {
+	...
+}
 ```
 
 ##### Javascript
@@ -600,6 +623,16 @@ obj2.age = 24;
 ##### Java
 ```java
 
+public class Vehicle {
+  String make;
+  String model;
+	public Vehicle(String mak, String mode) {
+		make = mak;
+		model = mode;
+	}
+}
+
+Vehicle Car = new Vehicle("BMW", "M5");
 ```
 
 ##### Javascript
@@ -644,6 +677,11 @@ obj2.age = 24;
 
 ##### Java
 ```java
+public static void func() throws NewException(){
+	...
+	throw new NewException();
+}
+
 try {
 	...
 }
@@ -678,17 +716,17 @@ catch (ExceptionType) {
 
 |Statements| C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Hello World! | - | - | - | - | - | - | - | - | - |
-| Declare Variable | - | - | - | - | `var variable` | - | - | - | - |
-| If/Else | - | - | - | - | - | - | - | - | - |
-| Switch Cases | - | - | - | - | - | - | - | - | - |
-| Arrays | - | - | - |`array.length` | `array.length` | - | - | - | - |
-| For Loops | - | - | - | - | - | - | - | - | - |
-| While Loops | - | - | - | - | - | - | - | - | - |
-| Functions | - | - | - | - | - | - | - | - | - |
-| Objects | - | - | - | - | - | - | - | - | - |
-| Inheritance | - | - | - | - | - | - | - | - | - |
-| Constructors | - | - | - | - | - | - | - | - | - |
-| Exception Handlers | - | - | - | - | - | - | - | - | - |
+| Hello World! | ➤ | ➤ | ➤ | [➤](#user-content-java) | [➤](#user-content-javascript) | ➤ | ➤ | ➤ | ➤ |
+| Declare Variable | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| If/Else | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Switch Cases | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Arrays | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| For Loops | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| While Loops | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Functions | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Objects | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Inheritance | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Constructors | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Exception Handlers | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
 
 
