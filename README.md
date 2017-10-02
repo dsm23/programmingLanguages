@@ -714,19 +714,19 @@ catch (ExceptionType) {
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
-|Statements| C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Hello World! | ➤ | ➤ | ➤ | [➤](#user-content-java) | [➤](#user-content-javascript) | ➤ | ➤ | ➤ | ➤ |
-| Declare Variable | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| If/Else | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Switch Cases | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Arrays | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| For Loops | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| While Loops | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Functions | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Objects | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Inheritance | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Constructors | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+|Statements			| C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
+|:---:				|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Hello World! 		| ➤ | ➤ | ➤ | [➤](#user-content-java) | [➤](#user-content-javascript) | ➤ | ➤ | ➤ | ➤ |
+| Declare Variable 	| ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | ➤ | ➤ | ➤ | ➤ |
+| If/Else 			| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Switch Cases 		| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Arrays 			| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| For Loops 		| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| While Loops 		| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Functions 		| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Objects 			| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Inheritance 		| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Constructors 		| ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
 | Exception Handlers | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ | ➤ |
 
 
