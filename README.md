@@ -22,7 +22,7 @@
 
 ## Hello World!
 
-C
+##### C
 ```c
 #include<stdio.h>
 
@@ -33,7 +33,7 @@ main()
 }
 ```
 
-C++
+##### C++
 ```cpp
 #include <iostream>
 
@@ -44,7 +44,7 @@ int main()
 }
 ```
 
-C#
+##### C#
 ```c#
 using System;
 
@@ -57,7 +57,7 @@ class Program
 }
 ```
 
-Java
+##### Java
 ```java
 public class Main {
 	public static void main(String[] args) {
@@ -66,35 +66,38 @@ public class Main {
 }
 ```
 
-Javascript
+##### Javascript
 ```javascript
 alert("Hello World!");
 console.log("Hello World!");
 document.write("Hello World!");
 ```
 
-Pascal
+##### Pascal
 
-PHP
+##### PHP
 ```php
 echo "Hello World!\n";
 ```
 
-Python
+##### Python
 ```python
 print("Hello World!")
 ```
 
-Ruby
+##### Ruby
 ```ruby
 puts("Hello World!")
 ```
 
 ## Declare Variables
 
-C
+##### C
+```c
 
-C++
+```
+
+##### C++
 ```cpp
 int integer = 0;
 string string = "Hello World";
@@ -102,7 +105,7 @@ bool boolean = true;
 bool boolean2(false);
 ```
 
-C#
+##### C#
 ```c#
 int x = 42;
 double pi = 3.14;
@@ -111,7 +114,7 @@ bool isOnline = true;
 string firstName = "David";
 ```
 
-Java
+##### Java
 ```java
 int x = 42;
 double pi = 3.14;
@@ -120,7 +123,7 @@ boolean isOnline = true;
 String firstName = "David";
 ```
 
-Javascript
+##### Javascript
 ```javascript
 var x = 42;
 var pi = 3.14;
@@ -129,11 +132,11 @@ var isOnline = true;
 var firstName = "David";
 ```
 
-Pascal
+##### Pascal
 
-PHP
+##### PHP
 
-Python
+##### Python
 ```python
 x = 42;
 pi = 3.14;
@@ -142,10 +145,11 @@ isOnline = True;
 firstName = "David";
 ```
 
-Ruby
+##### Ruby
 ```ruby
 
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## If Statements
 
@@ -164,7 +168,7 @@ Ruby
 
 ```
 
-Java
+##### Java
 ```java
 if (comparator){
 	...
@@ -177,7 +181,7 @@ else {
 }
 ```
 
-Javascript
+##### Javascript
 ```javascript
 if (comparator){
 	...
@@ -190,11 +194,14 @@ else {
 }
 ```
 
-Pascal
+##### Pascal
 
-PHP
+#####PHP
+```php
 
-Python
+```
+
+##### Python
 ```python
 if (operator):
 	...
@@ -204,7 +211,12 @@ else:
 	...
 ```
 
-Ruby
+##### Ruby
+```ruby
+
+```
+
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Switch Statements
 
@@ -223,9 +235,12 @@ Ruby
 
 ```
 
-Java
+##### Java
+```java
 
-Javascript
+```
+
+##### Javascript
 ```javascript
 switch (variable) {
 	case 1:
@@ -243,11 +258,14 @@ switch (variable) {
 }
 ```
 
-Pascal
+##### Pascal
 
-PHP
+##### PHP
+```php
 
-Python
+```
+
+##### Python
 ```python
 switch (variable):
 	case 1:
@@ -316,6 +334,8 @@ print(len(arr))
 
 ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ## For Loops
 
 ##### C
@@ -343,10 +363,23 @@ for (int i = a; i < b; i++) {}
 for (var i = a; i < b; i++) {}
 ```
 
+##### Pascal
+
+##### PHP
+```php
+
+```
+
 ##### Python
 ```python
 for i in range(a,b):
 ```
+
+##### Ruby
+```ruby
+
+```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## While Loops
 
@@ -384,7 +417,11 @@ while (comparator):
 	...
 ```
 
-Ruby
+##### Ruby
+```ruby
+
+```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Functions
 
@@ -403,7 +440,7 @@ Ruby
 
 ```
 
-Java
+##### Java
 ```java
 public static int func(int a, int b) {
 	...
@@ -411,24 +448,31 @@ public static int func(int a, int b) {
 }
 ```
 
-Javascript
+##### Javascript
 ```javascript
 function func(a,b) {
 	...
 }
 ```
 
-Pascal
+##### Pascal
 
-PHP
+##### PHP
+```php
 
-Python
+```
+
+##### Python
 ```python
 def func(a,b):
 	...
 ```
 
-Ruby
+##### Ruby
+```ruby
+
+```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Objects/Classes
 
@@ -483,6 +527,7 @@ obj2.age = 24;
 ```ruby
 
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Inheritance
 
@@ -527,6 +572,7 @@ obj2.age = 24;
 ```ruby
 
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Constructors
 
@@ -571,6 +617,7 @@ obj2.age = 24;
 ```ruby
 
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Exception Handlers
 
