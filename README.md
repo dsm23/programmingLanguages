@@ -531,7 +531,7 @@ def func(a,b):
 
 ```
 
-Java
+##### Java
 ```java
 public class obj {
 	String name = "David";
@@ -539,7 +539,7 @@ public class obj {
 }
 ```
 
-Javascript
+##### Javascript
 ```javascript
 var obj = {
 	name: "David",
@@ -692,17 +692,7 @@ Vehicle Car = new Vehicle("BMW", "M5");
 
 ##### Java
 ```java
-public static void func() throws NewException(){
-	...
-	throw new NewException();
-}
 
-try {
-	...
-}
-catch (ExceptionType) {
-	...
-}
 ```
 
 ##### Javascript
@@ -726,6 +716,51 @@ catch (ExceptionType) {
 ```ruby
 
 ```
+
+## Nonsense
+
+##### C
+```c
+
+```
+
+##### C++
+```cpp
+
+```
+
+##### C#
+```c#
+
+```
+
+##### Java
+```java
+
+```
+
+##### Javascript
+```javascript
+
+```
+
+##### Pascal
+
+##### PHP
+```php
+
+```
+
+##### Python
+```python
+
+```
+
+##### Ruby
+```ruby
+
+```
+
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
