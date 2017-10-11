@@ -4,28 +4,6 @@
 
 ## Contents
 
-* [Hello World](#hello-world)
-
-* [Declare Variables](#declare-variables)
-
-* [If Statements](#if-statements)
-
-* [Switch Statements](#switch-statements)
-
-* [Arrays](#arrays)
-
-* [For Loops](#for-loops)
-
-* [While Loops](#while-loops)
-
-* [Functions](#functions)
-
-* [Objects](#objects)
-
-* [Inheritance](#inheritance)
-
-* [Constructors](#constructors)
-
 |Statements			| C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
 |:---:				|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Hello World! 		| ➤ | ➤ | ➤ | [➤](#user-content-java) | [➤](#user-content-javascript) | ➤ | ➤ | ➤ | ➤ |
