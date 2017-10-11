@@ -77,7 +77,9 @@ document.write("Hello World!");
 
 ##### PHP
 ```php
-echo "Hello World!\n";
+<?php
+	echo "Hello World!\n";
+?>
 ```
 
 ##### Python
