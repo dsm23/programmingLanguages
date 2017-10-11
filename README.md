@@ -365,7 +365,9 @@ print(len(arr))
 
 ##### Ruby
 ```ruby
+arr = []
 
+puts(arr.length)
 ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
