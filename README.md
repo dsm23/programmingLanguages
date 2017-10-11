@@ -173,6 +173,55 @@ firstName = "David";
 ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
+## Variable Conversions
+
+##### C
+```c
+
+```
+
+##### C++
+```cpp
+
+```
+
+##### C#
+```c#
+
+```
+
+##### Java
+```java
+int num = Integer.parseInt(str);
+
+String str= String.valueOf(num);
+```
+
+##### Javascript
+```javascript
+var num = parseInt(str);
+
+var str = num.toString();
+
+```
+
+##### Pascal
+
+##### PHP
+```php
+
+```
+
+##### Python
+```python
+
+```
+
+##### Ruby
+```ruby
+
+```
+
 ## If Statements
 
 ##### C
