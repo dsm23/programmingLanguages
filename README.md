@@ -254,7 +254,17 @@ else:
 
 ##### C#
 ```c#
-
+switch (variable) {
+    case 0:
+		...
+		break;
+    case 1:
+		...
+		break;
+	default:
+		...
+		break;
+}
 ```
 
 ##### Java
@@ -289,24 +299,19 @@ switch (variable) {
 
 ##### Python
 ```python
-switch (variable):
-	case 1:
-		...
-		break;
-	case 2:
-		...
-		break;
-	case 3:
-		...
-		continue;
-	else:
-		...
-		break;
+N/A
 ```
 
 ##### Ruby
 ```ruby
-
+case (variable) 
+    when 0
+		...
+    when 1
+		...
+	unless
+		...    
+end
 ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
