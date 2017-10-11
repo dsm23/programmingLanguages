@@ -325,7 +325,9 @@ switch (variable):
 
 ##### C#
 ```c#
+int[] arr = new int[10];
 
+Console.WriteLine(arr.Length);
 ```
 
 ##### Java
