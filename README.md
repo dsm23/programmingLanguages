@@ -4,20 +4,20 @@
 
 ## Contents
 
-|Statements			| C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
-|:---:				|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Hello World! 		| ➤ | ➤ | ➤ | [➤](#user-content-java) | [➤](#user-content-javascript) | ➤ | ➤ | ➤ | ➤ |
-| Declare Variable 	| ➤ | ➤ | ➤ | [➤](#user-content-java-1) | [➤](#user-content-javascript-1) | ➤ | ➤ | ➤ | ➤ |
-| Type Conversions	| ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | ➤ | ➤ | ➤ | ➤ |
-| If/Else 			| ➤ | ➤ | ➤ | [➤](#user-content-java-3) | [➤](#user-content-javascript-3) | ➤ | ➤ | ➤ | ➤ |
-| Switch Cases 		| ➤ | ➤ | ➤ | [➤](#user-content-java-4) | [➤](#user-content-javascript-4) | ➤ | ➤ | ➤ | ➤ |
-| Arrays 			| ➤ | ➤ | ➤ | [➤](#user-content-java-5) | [➤](#user-content-javascript-5) | ➤ | ➤ | ➤ | ➤ |
-| For Loops 		| ➤ | ➤ | ➤ | [➤](#user-content-java-6) | [➤](#user-content-javascript-6) | ➤ | ➤ | ➤ | ➤ |
-| While Loops 		| ➤ | ➤ | ➤ | [➤](#user-content-java-7) | [➤](#user-content-javascript-7) | ➤ | ➤ | ➤ | ➤ |
-| Functions 		| ➤ | ➤ | ➤ | [➤](#user-content-java-8) | [➤](#user-content-javascript-8) | ➤ | ➤ | ➤ | ➤ |
-| Objects 			| ➤ | ➤ | ➤ | [➤](#user-content-java-9) | [➤](#user-content-javascript-9) | ➤ | ➤ | ➤ | ➤ |
-| Inheritance 		| ➤ | ➤ | ➤ | [➤](#user-content-java-10) | [➤](#user-content-javascript-10) | ➤ | ➤ | ➤ | ➤ |
-| Constructors 		| ➤ | ➤ | ➤ | [➤](#user-content-java-11) | [➤](#user-content-javascript-11) | ➤ | ➤ | ➤ | ➤ |
+|Statements            | C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
+|:---:                |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Hello World!         | ➤ | ➤ | ➤ | [➤](#user-content-java) | [➤](#user-content-javascript) | ➤ | ➤ | ➤ | ➤ |
+| Declare Variable     | ➤ | ➤ | ➤ | [➤](#user-content-java-1) | [➤](#user-content-javascript-1) | ➤ | ➤ | ➤ | ➤ |
+| Type Conversions    | ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | ➤ | ➤ | ➤ | ➤ |
+| If/Else             | ➤ | ➤ | ➤ | [➤](#user-content-java-3) | [➤](#user-content-javascript-3) | ➤ | ➤ | ➤ | ➤ |
+| Switch Cases         | ➤ | ➤ | ➤ | [➤](#user-content-java-4) | [➤](#user-content-javascript-4) | ➤ | ➤ | ➤ | ➤ |
+| Arrays             | ➤ | ➤ | ➤ | [➤](#user-content-java-5) | [➤](#user-content-javascript-5) | ➤ | ➤ | ➤ | ➤ |
+| For Loops         | ➤ | ➤ | ➤ | [➤](#user-content-java-6) | [➤](#user-content-javascript-6) | ➤ | ➤ | ➤ | ➤ |
+| While Loops         | ➤ | ➤ | ➤ | [➤](#user-content-java-7) | [➤](#user-content-javascript-7) | ➤ | ➤ | ➤ | ➤ |
+| Functions         | ➤ | ➤ | ➤ | [➤](#user-content-java-8) | [➤](#user-content-javascript-8) | ➤ | ➤ | ➤ | ➤ |
+| Objects             | ➤ | ➤ | ➤ | [➤](#user-content-java-9) | [➤](#user-content-javascript-9) | ➤ | ➤ | ➤ | ➤ |
+| Inheritance         | ➤ | ➤ | ➤ | [➤](#user-content-java-10) | [➤](#user-content-javascript-10) | ➤ | ➤ | ➤ | ➤ |
+| Constructors         | ➤ | ➤ | ➤ | [➤](#user-content-java-11) | [➤](#user-content-javascript-11) | ➤ | ➤ | ➤ | ➤ |
 | Exception Handlers | ➤ | ➤ | ➤ | [➤](#user-content-java-12) | [➤](#user-content-javascript-12) | ➤ | ➤ | ➤ | ➤ |
 
 ## Hello World!
@@ -28,7 +28,7 @@
 
 main()
 {
-	printf("Hello World\n");
+    printf("Hello World\n");
 
 }
 ```
@@ -50,19 +50,19 @@ using System;
 
 class Program
 {
-	static void Main(string[] args)
-	{
-		Console.WriteLine("Hello World!");
-	}
+    static void Main(string[] args)
+    {
+        Console.WriteLine("Hello World!");
+    }
 }
 ```
 
 ##### Java
 ```java
 public class Main {
-	public static void main(String[] args) {
-		System.out.println("Hello World!");
-	}
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
 }
 ```
 
@@ -78,7 +78,7 @@ document.write("Hello World!");
 ##### PHP
 ```php
 <?php
-	echo "Hello World!\n";
+    echo "Hello World!\n";
 ?>
 ```
 
@@ -223,26 +223,26 @@ https://www.w3schools.com/js/js_type_conversion.asp
 ##### Java
 ```java
 if (comparator){
-	...
+    ...
 }
 else if {
-	...
+    ...
 }
 else {
-	...
+    ...
 }
 ```
 
 ##### Javascript
 ```javascript
 if (comparator){
-	...
+    ...
 }
 else if {
-	...
+    ...
 }
 else {
-	...
+    ...
 }
 ```
 
@@ -256,11 +256,11 @@ else {
 ##### Python
 ```python
 if (operator):
-	...
+    ...
 elif:
-	...
+    ...
 else:
-	...
+    ...
 ```
 
 ##### Ruby
@@ -286,14 +286,14 @@ else:
 ```c#
 switch (variable) {
     case 0:
-		...
-		break;
+        ...
+        break;
     case 1:
-		...
-		break;
-	default:
-		...
-		break;
+        ...
+        break;
+    default:
+        ...
+        break;
 }
 ```
 
@@ -305,18 +305,18 @@ switch (variable) {
 ##### Javascript
 ```javascript
 switch (variable) {
-	case 1:
-		...
-		break;
-	case 2:
-		...
-		break;
-	case 3:
-		...
-		continue;
-	default:
-		...
-		break;
+    case 1:
+        ...
+        break;
+    case 2:
+        ...
+        break;
+    case 3:
+        ...
+        continue;
+    default:
+        ...
+        break;
 }
 ```
 
@@ -336,11 +336,11 @@ N/A
 ```ruby
 case (variable) 
     when 0
-		...
+        ...
     when 1
-		...
-	unless
-		...    
+        ...
+    unless
+        ...    
 end
 ```
 
@@ -467,14 +467,14 @@ for i in range(a,b):
 ##### Java
 ```java
 while (comparator) {
-	...
+    ...
 }
 ```
 
 ##### Javascript
 ```javascript
 while (comparator) {
-	...
+    ...
 }
 
 do {
@@ -493,7 +493,7 @@ while (comparator);
 ##### Python
 ```python
 while (comparator):
-	...
+    ...
 ```
 
 ##### Ruby
@@ -522,15 +522,15 @@ while (comparator):
 ##### Java
 ```java
 public static int func(int a, int b) {
-	...
-	return 0;
+    ...
+    return 0;
 }
 ```
 
 ##### Javascript
 ```javascript
 function func(a,b) {
-	...
+    ...
 }
 ```
 
@@ -544,7 +544,7 @@ function func(a,b) {
 ##### Python
 ```python
 def func(a,b):
-	...
+    ...
 ```
 
 ##### Ruby
@@ -573,16 +573,16 @@ def func(a,b):
 ##### Java
 ```java
 public class obj {
-	String name = "David";
-	int age = 24;
+    String name = "David";
+    int age = 24;
 }
 ```
 
 ##### Javascript
 ```javascript
 var obj = {
-	name: "David",
-	age: 24
+    name: "David",
+    age: 24
 }
 
 var obj2 = {}
@@ -630,7 +630,7 @@ obj2.age = 24;
 public class Child extends Parent {}
 
 public class Car extends Vehicle {
-	...
+    ...
 }
 ```
 
@@ -680,10 +680,10 @@ public class Car extends Vehicle {
 public class Vehicle {
   String make;
   String model;
-	public Vehicle(String mak, String mode) {
-		make = mak;
-		model = mode;
-	}
+    public Vehicle(String mak, String mode) {
+        make = mak;
+        model = mode;
+    }
 }
 
 Vehicle Car = new Vehicle("BMW", "M5");
@@ -803,19 +803,19 @@ Vehicle Car = new Vehicle("BMW", "M5");
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
-|Statements			| C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
-|:---:				|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Hello World! 		| ➤ | ➤ | ➤ | [➤](#user-content-java) | [➤](#user-content-javascript) | ➤ | ➤ | ➤ | ➤ |
-| Declare Variable 	| ➤ | ➤ | ➤ | [➤](#user-content-java-1) | [➤](#user-content-javascript-1) | ➤ | ➤ | ➤ | ➤ |
-| If/Else 			| ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | ➤ | ➤ | ➤ | ➤ |
-| Switch Cases 		| ➤ | ➤ | ➤ | [➤](#user-content-java-3) | [➤](#user-content-javascript-3) | ➤ | ➤ | ➤ | ➤ |
-| Arrays 			| ➤ | ➤ | ➤ | [➤](#user-content-java-4) | [➤](#user-content-javascript-4) | ➤ | ➤ | ➤ | ➤ |
-| For Loops 		| ➤ | ➤ | ➤ | [➤](#user-content-java-5) | [➤](#user-content-javascript-5) | ➤ | ➤ | ➤ | ➤ |
-| While Loops 		| ➤ | ➤ | ➤ | [➤](#user-content-java-6) | [➤](#user-content-javascript-6) | ➤ | ➤ | ➤ | ➤ |
-| Functions 		| ➤ | ➤ | ➤ | [➤](#user-content-java-7) | [➤](#user-content-javascript-7) | ➤ | ➤ | ➤ | ➤ |
-| Objects 			| ➤ | ➤ | ➤ | [➤](#user-content-java-8) | [➤](#user-content-javascript-8) | ➤ | ➤ | ➤ | ➤ |
-| Inheritance 		| ➤ | ➤ | ➤ | [➤](#user-content-java-9) | [➤](#user-content-javascript-9) | ➤ | ➤ | ➤ | ➤ |
-| Constructors 		| ➤ | ➤ | ➤ | [➤](#user-content-java-10) | [➤](#user-content-javascript-10) | ➤ | ➤ | ➤ | ➤ |
+|Statements            | C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
+|:---:                |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Hello World!         | ➤ | ➤ | ➤ | [➤](#user-content-java) | [➤](#user-content-javascript) | ➤ | ➤ | ➤ | ➤ |
+| Declare Variable     | ➤ | ➤ | ➤ | [➤](#user-content-java-1) | [➤](#user-content-javascript-1) | ➤ | ➤ | ➤ | ➤ |
+| If/Else             | ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | ➤ | ➤ | ➤ | ➤ |
+| Switch Cases         | ➤ | ➤ | ➤ | [➤](#user-content-java-3) | [➤](#user-content-javascript-3) | ➤ | ➤ | ➤ | ➤ |
+| Arrays             | ➤ | ➤ | ➤ | [➤](#user-content-java-4) | [➤](#user-content-javascript-4) | ➤ | ➤ | ➤ | ➤ |
+| For Loops         | ➤ | ➤ | ➤ | [➤](#user-content-java-5) | [➤](#user-content-javascript-5) | ➤ | ➤ | ➤ | ➤ |
+| While Loops         | ➤ | ➤ | ➤ | [➤](#user-content-java-6) | [➤](#user-content-javascript-6) | ➤ | ➤ | ➤ | ➤ |
+| Functions         | ➤ | ➤ | ➤ | [➤](#user-content-java-7) | [➤](#user-content-javascript-7) | ➤ | ➤ | ➤ | ➤ |
+| Objects             | ➤ | ➤ | ➤ | [➤](#user-content-java-8) | [➤](#user-content-javascript-8) | ➤ | ➤ | ➤ | ➤ |
+| Inheritance         | ➤ | ➤ | ➤ | [➤](#user-content-java-9) | [➤](#user-content-javascript-9) | ➤ | ➤ | ➤ | ➤ |
+| Constructors         | ➤ | ➤ | ➤ | [➤](#user-content-java-10) | [➤](#user-content-javascript-10) | ➤ | ➤ | ➤ | ➤ |
 | Exception Handlers | ➤ | ➤ | ➤ | [➤](#user-content-java-11) | [➤](#user-content-javascript-11) | ➤ | ➤ | ➤ | ➤ |
 
 
