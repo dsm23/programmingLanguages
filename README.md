@@ -173,7 +173,7 @@ firstName = "David";
 ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
-## Variable Conversions
+## Type Conversions
 
 ##### C
 ```c
@@ -202,8 +202,8 @@ String str= String.valueOf(num);
 var num = parseInt(str);
 
 var str = num.toString();
-
 ```
+https://www.w3schools.com/js/js_type_conversion.asp
 
 ##### Pascal
 
