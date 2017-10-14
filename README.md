@@ -4,21 +4,22 @@
 
 ## Contents
 
-|Statements            | C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
-|:---:                |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Hello World!         | ➤ | ➤ | ➤ | [➤](#user-content-java) | [➤](#user-content-javascript) | ➤ | ➤ | ➤ | ➤ |
-| Declare Variable     | ➤ | ➤ | ➤ | [➤](#user-content-java-1) | [➤](#user-content-javascript-1) | ➤ | ➤ | ➤ | ➤ |
-| Type Conversions    | ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | ➤ | ➤ | ➤ | ➤ |
-| If/Else             | ➤ | ➤ | ➤ | [➤](#user-content-java-3) | [➤](#user-content-javascript-3) | ➤ | ➤ | ➤ | ➤ |
-| Switch Cases         | ➤ | ➤ | ➤ | [➤](#user-content-java-4) | [➤](#user-content-javascript-4) | ➤ | ➤ | ➤ | ➤ |
-| Arrays             | ➤ | ➤ | ➤ | [➤](#user-content-java-5) | [➤](#user-content-javascript-5) | ➤ | ➤ | ➤ | ➤ |
-| For Loops         | ➤ | ➤ | ➤ | [➤](#user-content-java-6) | [➤](#user-content-javascript-6) | ➤ | ➤ | ➤ | ➤ |
-| While Loops         | ➤ | ➤ | ➤ | [➤](#user-content-java-7) | [➤](#user-content-javascript-7) | ➤ | ➤ | ➤ | ➤ |
-| Functions         | ➤ | ➤ | ➤ | [➤](#user-content-java-8) | [➤](#user-content-javascript-8) | ➤ | ➤ | ➤ | ➤ |
-| Objects             | ➤ | ➤ | ➤ | [➤](#user-content-java-9) | [➤](#user-content-javascript-9) | ➤ | ➤ | ➤ | ➤ |
-| Inheritance         | ➤ | ➤ | ➤ | [➤](#user-content-java-10) | [➤](#user-content-javascript-10) | ➤ | ➤ | ➤ | ➤ |
-| Constructors         | ➤ | ➤ | ➤ | [➤](#user-content-java-11) | [➤](#user-content-javascript-11) | ➤ | ➤ | ➤ | ➤ |
-| Exception Handlers | ➤ | ➤ | ➤ | [➤](#user-content-java-12) | [➤](#user-content-javascript-12) | ➤ | ➤ | ➤ | ➤ |
+|Statements            | C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby | Scala |
+|:---:                |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Hello World!         | ➤ | ➤ | ➤ | [➤](#user-content-java) | [➤](#user-content-javascript) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Declare Variable     | ➤ | ➤ | ➤ | [➤](#user-content-java-1) | [➤](#user-content-javascript-1) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Type Conversions    | ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| If/Else             | ➤ | ➤ | ➤ | [➤](#user-content-java-3) | [➤](#user-content-javascript-3) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Switch Cases         | ➤ | ➤ | ➤ | [➤](#user-content-java-4) | [➤](#user-content-javascript-4) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Arrays             | ➤ | ➤ | ➤ | [➤](#user-content-java-5) | [➤](#user-content-javascript-5) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| For Loops         | ➤ | ➤ | ➤ | [➤](#user-content-java-6) | [➤](#user-content-javascript-6) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| While Loops         | ➤ | ➤ | ➤ | [➤](#user-content-java-7) | [➤](#user-content-javascript-7) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| RegExp         	| ➤ | ➤ | ➤ | [➤](#user-content-java-8) | [➤](#user-content-javascript-8) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Functions         | ➤ | ➤ | ➤ | [➤](#user-content-java-9) | [➤](#user-content-javascript-9) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Objects             | ➤ | ➤ | ➤ | [➤](#user-content-java-10) | [➤](#user-content-javascript-10) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Inheritance         | ➤ | ➤ | ➤ | [➤](#user-content-java-11) | [➤](#user-content-javascript-11) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Constructors         | ➤ | ➤ | ➤ | [➤](#user-content-java-12) | [➤](#user-content-javascript-12) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Exception Handlers | ➤ | ➤ | ➤ | [➤](#user-content-java-13) | [➤](#user-content-javascript-13) | ➤ | ➤ | ➤ | ➤ | ➤ |
 
 ## Hello World!
 
