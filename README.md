@@ -144,6 +144,15 @@ var firstName = "David";
 ##### Pascal
 
 ##### PHP
+```php
+<?php
+	$x = 42;
+	$pi = 3.14;
+	$y = 'Z';
+	$isOnline = True;
+	$firstName = "David";
+?>
+```
 
 ##### Python
 ```python
