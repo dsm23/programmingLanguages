@@ -91,6 +91,12 @@ print("Hello World!")
 ```ruby
 puts("Hello World!")
 ```
+
+##### Scala
+```scala
+println("Hello, Scala!");
+```
+
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Declare Variables
