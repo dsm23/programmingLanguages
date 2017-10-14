@@ -146,11 +146,11 @@ var firstName = "David";
 ##### PHP
 ```php
 <?php
-	$x = 42;
-	$pi = 3.14;
-	$y = 'Z';
-	$isOnline = True;
-	$firstName = "David";
+    $x = 42;
+    $pi = 3.14;
+    $y = 'Z';
+    $isOnline = True;
+    $firstName = "David";
 ?>
 ```
 
