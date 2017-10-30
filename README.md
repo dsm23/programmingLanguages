@@ -75,6 +75,15 @@ document.write("Hello World!");
 ```
 
 ##### Pascal
+```
+program Project1;
+
+uses SysUtils;
+
+begin
+	Writeln('Hello World!');
+end
+```
 
 ##### PHP
 ```php
@@ -179,12 +188,12 @@ firstName = "David";
 
 ##### C++
 ```cpp
-
+string str = obj->ToString()
 ```
 
 ##### C#
 ```c#
-
+string str = obj.ToString();
 ```
 
 ##### Java
@@ -518,6 +527,59 @@ while (comparator):
 ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
+## RegExp
+
+##### C
+```c
+
+```
+
+##### C++
+```cpp
+
+```
+
+##### C#
+```c#
+
+```
+
+##### Java
+```java
+
+```
+
+##### Javascript
+```javascript
+var str = /[a-z]/g;
+var str2 = /[a-zA-Z0-9]/g;
+```
+
+##### Pascal
+```
+
+```
+
+##### PHP
+```php
+
+```
+
+##### Python
+```python
+
+```
+
+##### Ruby
+```ruby
+
+```
+
+##### Scala
+```scala
+
+```
+
 ## Functions
 
 ##### C
@@ -800,6 +862,9 @@ Vehicle Car = new Vehicle("BMW", "M5");
 ```
 
 ##### Pascal
+```
+
+```
 
 ##### PHP
 ```php
@@ -813,6 +878,11 @@ Vehicle Car = new Vehicle("BMW", "M5");
 
 ##### Ruby
 ```ruby
+
+```
+
+##### Scala
+```scala
 
 ```
 
