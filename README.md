@@ -6,7 +6,7 @@
 
 |Statements            | C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby | Scala |
 |:---:                |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Hello World!         | [➤](#user-content-c) | [➤](#user-content-c++) | [➤](#user-content-c#) | [➤](#user-content-java) | [➤](#user-content-javascript) | [➤](#user-content-pascal) | [➤](#user-content-php) | [➤](#user-content-python) | [➤](#user-content-ruby) | [➤](#user-content-scala) |
+| Hello World!         | [➤](#user-content-c) | [➤](#user-content-c-1) | [➤](#user-content-c-2) | [➤](#user-content-java) | [➤](#user-content-javascript) | [➤](#user-content-pascal) | [➤](#user-content-php) | [➤](#user-content-python) | [➤](#user-content-ruby) | [➤](#user-content-scala) |
 | Declare Variable     | ➤ | ➤ | ➤ | [➤](#user-content-java-1) | [➤](#user-content-javascript-1) | ➤ | ➤ | ➤ | ➤ | ➤ |
 | Type Conversions    | ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | ➤ | ➤ | ➤ | ➤ | ➤ |
 | If/Else             | ➤ | ➤ | ➤ | [➤](#user-content-java-3) | [➤](#user-content-javascript-3) | ➤ | ➤ | ➤ | ➤ | ➤ |
@@ -34,6 +34,8 @@ main()
 }
 ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ##### C++
 ```cpp
 #include <iostream>
@@ -44,6 +46,8 @@ int main()
     return 0;
 }
 ```
+
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### C#
 ```c#
@@ -58,6 +62,8 @@ class Program
 }
 ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ##### Java
 ```java
 public class Main {
@@ -67,12 +73,16 @@ public class Main {
 }
 ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ##### Javascript
 ```javascript
 alert("Hello World!");
 console.log("Hello World!");
 document.write("Hello World!");
 ```
+
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Pascal
 ```
@@ -85,6 +95,8 @@ begin
 end
 ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ##### PHP
 ```php
 <?php
@@ -92,15 +104,21 @@ end
 ?>
 ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ##### Python
 ```python
 print("Hello World!")
 ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ##### Ruby
 ```ruby
 puts("Hello World!")
 ```
+
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Scala
 ```scala
