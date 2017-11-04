@@ -24,16 +24,16 @@
 ## Hello World!
 
 ##### C
-> 
-```c
-#include<stdio.h>
 
-main()
-{
-    printf("Hello World\n");
-
-}
-```
+>    ```c
+>    #include<stdio.h>
+>
+>    main()
+>    {
+>        printf("Hello World\n");
+>
+>    }
+>    ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
