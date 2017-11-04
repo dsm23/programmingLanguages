@@ -6,7 +6,7 @@
 
 |Statements            | C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby | Scala |
 |:---:                |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Hello World!         | ➤ | ➤ | ➤ | [➤](#user-content-java) | [➤](#user-content-javascript) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Hello World!         | [➤](#user-content-c) | [➤](#user-content-c++) | [➤](#user-content-c#) | [➤](#user-content-java) | [➤](#user-content-javascript) | [➤](#user-content-pascal) | [➤](#user-content-php) | [➤](#user-content-python) | [➤](#user-content-ruby) | [➤](#user-content-scala) |
 | Declare Variable     | ➤ | ➤ | ➤ | [➤](#user-content-java-1) | [➤](#user-content-javascript-1) | ➤ | ➤ | ➤ | ➤ | ➤ |
 | Type Conversions    | ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | ➤ | ➤ | ➤ | ➤ | ➤ |
 | If/Else             | ➤ | ➤ | ➤ | [➤](#user-content-java-3) | [➤](#user-content-javascript-3) | ➤ | ➤ | ➤ | ➤ | ➤ |
@@ -220,7 +220,8 @@ https://www.w3schools.com/js/js_type_conversion.asp
 
 ##### Python
 ```python
-
+type(variable)
+str = str(number)
 ```
 
 ##### Ruby
