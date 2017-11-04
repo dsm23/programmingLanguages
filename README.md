@@ -24,7 +24,7 @@
 ## Hello World!
 
 ##### C
-```c
+> ```c
 #include<stdio.h>
 
 main()
