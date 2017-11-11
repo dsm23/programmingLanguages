@@ -25,106 +25,106 @@
 
 ##### C
 
->    ```c
->    #include<stdio.h>
+> ```c
+> #include<stdio.h>
 >
->    main()
->    {
->        printf("Hello World\n");
+> main()
+> {
+>     printf("Hello World\n");
 >
->    }
->    ```
+> }
+> ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### C++
-```cpp
-#include <iostream>
-
-int main() 
-{
-    std::cout << "Hello, World!\n";
-    return 0;
-}
-```
+> ```cpp
+> #include <iostream>
+> 
+> int main() 
+> {
+>     std::cout << "Hello, World!\n";
+>     return 0;
+> }
+> ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### C#
-```c#
-using System;
+> ```c#
+> using System;
 
-class Program
-{
-    static void Main(string[] args)
-    {
-        Console.WriteLine("Hello World!");
-    }
-}
-```
+> class Program
+> {
+>     static void Main(string[] args)
+>     {
+>         Console.WriteLine("Hello World!");
+>     }
+> }
+> ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Java
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
-}
-```
+> ```java
+> public class Main {
+>     public static void main(String[] args) {
+>         System.out.println("Hello World!");
+>     }
+> }
+> ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Javascript
-```javascript
-alert("Hello World!");
-console.log("Hello World!");
-document.write("Hello World!");
-```
+> ```javascript
+> alert("Hello World!");
+> console.log("Hello World!");
+> document.write("Hello World!");
+> ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Pascal
-```
-program Project1;
-
-uses SysUtils;
-
-begin
-	Writeln('Hello World!');
-end
-```
+> ```
+> program Project1;
+> 
+> uses SysUtils;
+> 
+> begin
+> 	Writeln('Hello World!');
+> end
+> ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### PHP
-```php
-<?php
-    echo "Hello World!\n";
-?>
-```
+> ```php
+> <?php
+>     echo "Hello World!\n";
+> ?>
+> ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Python
-```python
-print("Hello World!")
-```
+> ```python
+> print("Hello World!")
+> ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Ruby
-```ruby
-puts("Hello World!")
-```
+> ```ruby
+> puts("Hello World!")
+> ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Scala
-```scala
-println("Hello, Scala!");
-```
+> ```scala
+> println("Hello, Scala!");
+> ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
