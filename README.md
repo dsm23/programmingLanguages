@@ -31,6 +31,7 @@
 > main()
 > {
 >     printf("Hello World\n");
+>     return 0;
 >
 > }
 > ```
@@ -40,6 +41,8 @@
 ##### C++
 > ```cpp
 > #include <iostream>
+>
+> //using namespace std;
 > 
 > int main() 
 > {
@@ -131,71 +134,100 @@
 ## Declare Variables
 
 ##### C
-```c
-
-```
+> ```c
+> #include<stdio.h>
+>
+> main()
+> {
+>     int integer = 0;
+>     float pi = 3.14;
+>     char[] str = "Hello World";
+>     bool boolean = true;
+>     bool boolean2(false);
+>
+>     printf("%d %f %s",integer, pi, str);
+>     return 0;
+>
+> }
+> ```
 
 ##### C++
-```cpp
-int integer = 0;
-string string = "Hello World";
-bool boolean = true;
-bool boolean2(false);
-```
+> ```cpp
+> #include <iostream>
+> #include <string>
+>
+> using namespace std;
+> 
+> int main() 
+> {
+>     int x = 42;
+>     double pi = 3.14;
+>     char y = "Z";
+>     bool isOnline = true;
+>     char firstName[] = "David";
+>     string middleName = "Sebastian";
+>     std::string lastName = "Murdoch";
+>     return 0;
+> }
+> ```
 
 ##### C#
-```c#
-int x = 42;
-double pi = 3.14;
-char y = 'Z';
-bool isOnline = true;
-string firstName = "David";
-```
+> ```c#
+> int x = 42;
+> double pi = 3.14;
+> char y = 'Z';
+> bool isOnline = true;
+> string firstName = "David";
+> ```
 
 ##### Java
-```java
-int x = 42;
-double pi = 3.14;
-char y = 'Z';
-boolean isOnline = true;
-String firstName = "David";
-```
+> ```java
+> int x = 42;
+> double pi = 3.14;
+> char y = 'Z';
+> boolean isOnline = true;
+> String firstName = "David";
+> ```
 
 ##### Javascript
-```javascript
-var x = 42;
-var pi = 3.14;
-var y = 'Z';
-var isOnline = true;
-var firstName = "David";
-```
+> ```javascript
+> var x = 42;
+> var pi = 3.14;
+> var y = 'Z';
+> var isOnline = true;
+> var firstName = "David";
+> ```
 
 ##### Pascal
 
 ##### PHP
-```php
-<?php
-    $x = 42;
-    $pi = 3.14;
-    $y = 'Z';
-    $isOnline = True;
-    $firstName = "David";
-?>
-```
+> ```php
+> <?php
+>     $x = 42;
+>     $pi = 3.14;
+>     $y = 'Z';
+>     $isOnline = True;
+>     $firstName = "David";
+> ?>
+> ```
 
 ##### Python
-```python
-x = 42;
-pi = 3.14;
-y = 'Z';
-isOnline = True;
-firstName = "David";
-```
+> ```python
+> x = 42;
+> pi = 3.14;
+> y = 'Z';
+> isOnline = True;
+> firstName = "David";
+> ```
 
 ##### Ruby
-```ruby
-
-```
+> ```ruby
+> x = 42 
+> pi = 3.14
+> y = 'Z'
+> isOnline = true
+> firstName = "David"
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Type Conversions
