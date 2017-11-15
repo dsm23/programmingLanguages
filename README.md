@@ -151,6 +151,8 @@
 > }
 > ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ##### C++
 > ```cpp
 > #include <iostream>
@@ -171,6 +173,8 @@
 > }
 > ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ##### C#
 > ```c#
 > int x = 42;
@@ -179,6 +183,8 @@
 > bool isOnline = true;
 > string firstName = "David";
 > ```
+
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Java
 > ```java
@@ -189,6 +195,8 @@
 > String firstName = "David";
 > ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ##### Javascript
 > ```javascript
 > var x = 42;
@@ -197,6 +205,8 @@
 > var isOnline = true;
 > var firstName = "David";
 > ```
+
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Pascal
 
@@ -211,6 +221,8 @@
 > ?>
 > ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ##### Python
 > ```python
 > x = 42;
@@ -219,6 +231,8 @@
 > isOnline = True;
 > firstName = "David";
 > ```
+
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Ruby
 > ```ruby
@@ -230,6 +244,15 @@
 > ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
+##### Scala
+> ```python
+> object HelloWorld {
+>     def main(args: Array[String]): Unit = {
+>         println("Hello, world!")
+>     }
+> }
+> ```
+
 ## Type Conversions
 
 ##### C
@@ -237,15 +260,21 @@
 
 ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ##### C++
 ```cpp
 string str = obj->ToString()
 ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ##### C#
 ```c#
 string str = obj.ToString();
 ```
+
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Java
 ```java
@@ -254,31 +283,42 @@ int num = Integer.parseInt(str);
 String str= String.valueOf(num);
 ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ##### Javascript
 ```javascript
 var num = parseInt(str);
 
 var str = num.toString();
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 https://www.w3schools.com/js/js_type_conversion.asp
 
 ##### Pascal
+
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### PHP
 ```php
 
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Python
 ```python
 type(variable)
 str = str(number)
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Ruby
 ```ruby
 
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
+##### Scala
 
 ## If Statements
 
