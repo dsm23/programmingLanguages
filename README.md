@@ -188,6 +188,22 @@
 > string firstName = "David";
 > ```
 
+> ```c#
+> using System;
+> 
+> class Program
+> {
+>     static void Main(string[] args)
+>     {
+>         int x = 42;
+>         double pi = 3.14;
+>         char y = 'Z';
+>         bool isOnline = true;
+>         string firstName = "David";
+>     }
+> }
+> ```
+
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Java
@@ -213,6 +229,28 @@
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Pascal
+> ```
+> Program program;
+>
+> Uses
+>   SysUtils;
+>
+> Var
+>   x: Integer;
+>   pi: Real;
+>   y: Char;
+>   isOnline: Boolean;
+>   firstName: String;
+> Begin
+>   x:= 42;
+>   pi:= 3.14;
+>   y:= 'Z';
+>   isOnline:= True;
+>   firstName:= 'David';
+> End.
+> ```
+
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### PHP
 > ```php
@@ -249,7 +287,16 @@
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Scala
-> ``` python
+> ```python
+> object Main {
+>   def main(args: Array[String]): Unit = {
+>     var x = 42
+>     var pi = 3.14
+>     var y = 'Z'
+>     var isOnline = true
+>     var firstName = 'David'
+>   }
+> }
 > ```
 
 ## Type Conversions
