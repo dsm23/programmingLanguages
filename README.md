@@ -125,8 +125,12 @@
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Scala
-> ```scala
-> println("Hello, Scala!");
+> ```python
+> object HelloWorld {
+>     def main(args: Array[String]): Unit = {
+>         println("Hello, world!")
+>     }
+> }
 > ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
@@ -245,12 +249,7 @@
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Scala
-> ```python
-> object HelloWorld {
->     def main(args: Array[String]): Unit = {
->         println("Hello, world!")
->     }
-> }
+> ``` python
 > ```
 
 ## Type Conversions
