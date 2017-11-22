@@ -208,11 +208,17 @@
 
 ##### Java
 > ```java
-> int x = 42;
-> double pi = 3.14;
-> char y = 'Z';
-> boolean isOnline = true;
-> String firstName = "David";
+> public class Main {
+>
+>   public static void main(String[] args) {
+>
+>     int x = 42;
+>     double pi = 3.14;
+>     char y = 'Z';
+>     boolean isOnline = true;
+>     String firstName = "David";
+>   }
+> }
 > ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
@@ -310,7 +316,7 @@
 
 ##### C++
 ```cpp
-string str = obj->ToString()
+string str = obj->ToString();
 ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
@@ -327,6 +333,10 @@ string str = obj.ToString();
 int num = Integer.parseInt(str);
 
 String str= String.valueOf(num);
+
+boolean bool = Boolean.parseBoolean(str);
+
+String str = String.valueOf(bool);
 ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
@@ -336,13 +346,17 @@ String str= String.valueOf(num);
 var num = parseInt(str);
 
 var str = num.toString();
+
+var str = bool.toString();
 ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 https://www.w3schools.com/js/js_type_conversion.asp
 
 ##### Pascal
+```
 
+```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### PHP
@@ -365,6 +379,10 @@ str = str(number)
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Scala
+```
+
+```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## If Statements
 
