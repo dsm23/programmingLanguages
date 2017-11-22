@@ -210,14 +210,14 @@
 > ```java
 > public class Main {
 >
->   public static void main(String[] args) {
+>     public static void main(String[] args) {
 >
->     int x = 42;
->     double pi = 3.14;
->     char y = 'Z';
->     boolean isOnline = true;
->     String firstName = "David";
->   }
+>         int x = 42;
+>         double pi = 3.14;
+>         char y = 'Z';
+>         boolean isOnline = true;
+>         String firstName = "David";
+>     }
 > }
 > ```
 
@@ -390,62 +390,95 @@ str = str(number)
 ```c
 
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### C++
 ```cpp
 
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### C#
 ```c#
 
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Java
 ```java
-if (comparator){
-    ...
-}
-else if {
-    ...
-}
-else {
-    ...
-}
+> if (conditional){
+>     ...
+> }
+> else if (conditional) {
+>     ...
+> }
+> else {
+>     ...
+> }
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Javascript
 ```javascript
-if (comparator){
-    ...
-}
-else if {
-    ...
-}
-else {
-    ...
-}
+> if (conditional) {
+>     ...
+> }
+> else if (conditional) {
+>     ...
+> }
+> else {
+>     ...
+> }
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Pascal
+```
+
+```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### PHP
 ```php
-
+> <?php
+>     if (conditional) {
+>         ...
+>     } 
+>     elseif (conditional) {
+>         ...
+>     } 
+>     else {
+>         ...
+>     }
+> ?>
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Python
 ```python
-if (operator):
-    ...
-elif:
-    ...
-else:
-    ...
+> if (conditional):
+>     ...
+> elif (conditional):
+>     ...
+> else:
+>     ...
 ```
+##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Ruby
 ```ruby
+> if conditional
+>     ...
+> elsif conditional
+>     ...
+> else
+>     ...
+> end
+```
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
+##### Scala
+```
 
 ```
 
