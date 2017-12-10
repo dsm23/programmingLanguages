@@ -7,19 +7,19 @@
 |Statements            | C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby | Scala |
 |:---:                |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Hello World!         | [➤](#user-content-c) | [➤](#user-content-c-1) | [➤](#user-content-c-2) | [➤](#user-content-java) | [➤](#user-content-javascript) | [➤](#user-content-pascal) | [➤](#user-content-php) | [➤](#user-content-python) | [➤](#user-content-ruby) | [➤](#user-content-scala) |
-| Declare Variable     | ➤ | ➤ | ➤ | [➤](#user-content-java-1) | [➤](#user-content-javascript-1) | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Type Conversions    | ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | ➤ | ➤ | ➤ | ➤ | ➤ |
-| If/Else             | ➤ | ➤ | ➤ | [➤](#user-content-java-3) | [➤](#user-content-javascript-3) | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Switch Cases         | ➤ | ➤ | ➤ | [➤](#user-content-java-4) | [➤](#user-content-javascript-4) | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Arrays             | ➤ | ➤ | ➤ | [➤](#user-content-java-5) | [➤](#user-content-javascript-5) | ➤ | ➤ | ➤ | ➤ | ➤ |
-| For Loops         | ➤ | ➤ | ➤ | [➤](#user-content-java-6) | [➤](#user-content-javascript-6) | ➤ | ➤ | ➤ | ➤ | ➤ |
-| While Loops         | ➤ | ➤ | ➤ | [➤](#user-content-java-7) | [➤](#user-content-javascript-7) | ➤ | ➤ | ➤ | ➤ | ➤ |
-| RegExp         	| ➤ | ➤ | ➤ | [➤](#user-content-java-8) | [➤](#user-content-javascript-8) | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Functions         | ➤ | ➤ | ➤ | [➤](#user-content-java-9) | [➤](#user-content-javascript-9) | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Objects             | ➤ | ➤ | ➤ | [➤](#user-content-java-10) | [➤](#user-content-javascript-10) | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Inheritance         | ➤ | ➤ | ➤ | [➤](#user-content-java-11) | [➤](#user-content-javascript-11) | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Constructors         | ➤ | ➤ | ➤ | [➤](#user-content-java-12) | [➤](#user-content-javascript-12) | ➤ | ➤ | ➤ | ➤ | ➤ |
-| Exception Handlers | ➤ | ➤ | ➤ | [➤](#user-content-java-13) | [➤](#user-content-javascript-13) | ➤ | ➤ | ➤ | ➤ | ➤ |
+| Declare Variable     | ➤ | ➤ | ➤ | [➤](#user-content-java-1) | [➤](#user-content-javascript-1) | [➤](#user-content-pascal-1) | [➤](#user-content-php-1) | [➤](#user-content-python-1) | [➤](#user-content-ruby-1) | [➤](#user-content-scala-1) |
+| Type Conversions    | ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | [➤](#user-content-pascal-2) | [➤](#user-content-php-2) | [➤](#user-content-python-2) | [➤](#user-content-ruby-2) | [➤](#user-content-scala-2) |
+| If/Else             | ➤ | ➤ | ➤ | [➤](#user-content-java-3) | [➤](#user-content-javascript-3) | [➤](#user-content-pascal-3) | [➤](#user-content-php-3) | [➤](#user-content-python-3) | [➤](#user-content-ruby-3) | [➤](#user-content-scala-3) |
+| Switch Cases         | ➤ | ➤ | ➤ | [➤](#user-content-java-4) | [➤](#user-content-javascript-4) | [➤](#user-content-pascal-4) | [➤](#user-content-php-4) | [➤](#user-content-python-4) | [➤](#user-content-ruby-4) | [➤](#user-content-scala-4) |
+| Arrays             | ➤ | ➤ | ➤ | [➤](#user-content-java-5) | [➤](#user-content-javascript-5) | [➤](#user-content-pascal-5) | [➤](#user-content-php-5) | [➤](#user-content-python-5) | [➤](#user-content-ruby-5) | [➤](#user-content-scala-5) |
+| For Loops         | ➤ | ➤ | ➤ | [➤](#user-content-java-6) | [➤](#user-content-javascript-6) | [➤](#user-content-pascal-6) | [➤](#user-content-php-6) | [➤](#user-content-python-6) | [➤](#user-content-ruby-6) | [➤](#user-content-scala-6) |
+| While Loops         | ➤ | ➤ | ➤ | [➤](#user-content-java-7) | [➤](#user-content-javascript-7) | [➤](#user-content-pascal-7) | [➤](#user-content-php-7) | [➤](#user-content-python-7) | [➤](#user-content-ruby-7) | [➤](#user-content-scala-7) |
+| RegExp         	| ➤ | ➤ | ➤ | [➤](#user-content-java-8) | [➤](#user-content-javascript-8) | [➤](#user-content-pascal-8) | [➤](#user-content-php-8) | [➤](#user-content-python-8) | [➤](#user-content-ruby-8) | [➤](#user-content-scala-8) |
+| Functions         | ➤ | ➤ | ➤ | [➤](#user-content-java-9) | [➤](#user-content-javascript-9) | [➤](#user-content-pascal-9) | [➤](#user-content-php-9) | [➤](#user-content-python-9) | [➤](#user-content-ruby-9) | [➤](#user-content-scala-9) |
+| Objects             | ➤ | ➤ | ➤ | [➤](#user-content-java-10) | [➤](#user-content-javascript-10) | [➤](#user-content-pascal-10) | [➤](#user-content-php-10) | [➤](#user-content-python-10) | [➤](#user-content-ruby-10) | [➤](#user-content-scala-10) |
+| Inheritance         | ➤ | ➤ | ➤ | [➤](#user-content-java-11) | [➤](#user-content-javascript-11) | [➤](#user-content-pascal-11) | [➤](#user-content-php-11) | [➤](#user-content-python-11) | [➤](#user-content-ruby-11) | [➤](#user-content-scala-11) |
+| Constructors         | ➤ | ➤ | ➤ | [➤](#user-content-java-12) | [➤](#user-content-javascript-12) | [➤](#user-content-pascal-12) | [➤](#user-content-php-12) | [➤](#user-content-python-12) | [➤](#user-content-ruby-12) | [➤](#user-content-scala-12) |
+| Exception Handlers | ➤ | ➤ | ➤ | [➤](#user-content-java-13) | [➤](#user-content-javascript-13) | [➤](#user-content-pascal-13) | [➤](#user-content-php-13) | [➤](#user-content-python-13) | [➤](#user-content-ruby-13) | [➤](#user-content-scala-13) |
 
 ## Hello World!
 
