@@ -30,7 +30,7 @@
 >
 > main()
 > {
->     printf("Hello World\n");
+>     printf("Hello World!\n"); /* prints Hello World! */
 >     return 0;
 >
 > }
@@ -46,7 +46,7 @@
 > 
 > int main() 
 > {
->     std::cout << "Hello, World!\n";
+>     std::cout << "Hello, World!\n"; // prints Hello World!
 >     return 0;
 > }
 > ```
@@ -61,7 +61,7 @@
 > {
 >     static void Main(string[] args)
 >     {
->         Console.WriteLine("Hello World!");
+>         Console.WriteLine("Hello World!"); // prints Hello World!
 >     }
 > }
 > ```
@@ -72,7 +72,7 @@
 > ```java
 > public class Main {
 >     public static void main(String[] args) {
->         System.out.println("Hello World!");
+>         System.out.println("Hello World!"); // prints Hello World!
 >     }
 > }
 > ```
@@ -104,7 +104,7 @@
 ##### PHP
 > ```php
 > <?php
->     echo "Hello World!\n";
+>     echo "Hello World!\n";  // prints Hello World!
 > ?>
 > ```
 
@@ -112,23 +112,23 @@
 
 ##### Python
 > ```python
-> print("Hello World!")
+> print("Hello World!") # prints Hello World!
 > ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Ruby
 > ```ruby
-> puts("Hello World!")
+> puts("Hello World!") # prints Hello World!
 > ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Scala
-> ```python
+> ```scala
 > object HelloWorld {
 >     def main(args: Array[String]): Unit = {
->         println("Hello, world!")
+>         println("Hello, world!")  // prints Hello World!
 >     }
 > }
 > ```
@@ -155,8 +155,6 @@
 > }
 > ```
 
-##### [Back to Top](#subtle-changes-in-programming-languages)
-
 ##### C++
 > ```cpp
 > #include <iostream>
@@ -166,62 +164,48 @@
 > 
 > int main() 
 > {
->     int x = 42;
->     double pi = 3.14;
->     char y = "Z";
->     bool isOnline = true;
->     char firstName[] = "David";
->     string middleName = "Sebastian";
->     std::string lastName = "Murdoch";
->     return 0;
+>   int x = 42;
+>   double pi = 3.14;
+>   char y = "Z";
+>   bool isOnline = true;
+>   char firstName[] = "David";
+>   string middleName = "Sebastian";
+>   std::string lastName = "Murdoch";
+>   return 0;
 > }
 > ```
 
-##### [Back to Top](#subtle-changes-in-programming-languages)
-
 ##### C#
-> ```c#
-> int x = 42;
-> double pi = 3.14;
-> char y = 'Z';
-> bool isOnline = true;
-> string firstName = "David";
-> ```
-
 > ```c#
 > using System;
 > 
 > class Program
 > {
->     static void Main(string[] args)
->     {
->         int x = 42;
->         double pi = 3.14;
->         char y = 'Z';
->         bool isOnline = true;
->         string firstName = "David";
->     }
+>   static void Main(string[] args)
+>   {
+>     int x = 42;
+>     double pi = 3.14;
+>     char y = 'Z';
+>     bool isOnline = true;
+>     string firstName = "David";
+>   }
 > }
 > ```
-
-##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Java
 > ```java
 > public class Main {
 >
->     public static void main(String[] args) {
+>   public static void main(String[] args) {
 >
->         int x = 42;
->         double pi = 3.14;
->         char y = 'Z';
->         boolean isOnline = true;
->         String firstName = "David";
->     }
+>     int x = 42;
+>     double pi = 3.14;
+>     char y = 'Z';
+>     boolean isOnline = true;
+>     String firstName = "David";
+>   }
 > }
 > ```
-
-##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Javascript
 > ```javascript
@@ -231,8 +215,6 @@
 > var isOnline = true;
 > var firstName = "David";
 > ```
-
-##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Pascal
 > ```
@@ -256,20 +238,17 @@
 > End.
 > ```
 
-##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### PHP
 > ```php
 > <?php
->     $x = 42;
->     $pi = 3.14;
->     $y = 'Z';
->     $isOnline = True;
->     $firstName = "David";
+>   $x = 42;
+>   $pi = 3.14;
+>   $y = 'Z';
+>   $isOnline = True;
+>   $firstName = "David";
 > ?>
 > ```
-
-##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Python
 > ```python
@@ -280,8 +259,6 @@
 > firstName = "David";
 > ```
 
-##### [Back to Top](#subtle-changes-in-programming-languages)
-
 ##### Ruby
 > ```ruby
 > x = 42 
@@ -290,10 +267,9 @@
 > isOnline = true
 > firstName = "David"
 > ```
-##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Scala
-> ```python
+> ```scala
 > object Main {
 >   def main(args: Array[String]): Unit = {
 >     var x = 42
@@ -305,31 +281,27 @@
 > }
 > ```
 
+##### [Back to Top](#subtle-changes-in-programming-languages)
+
 ## Type Conversions
 
 ##### C
-```c
+> ```c
 
-```
-
-##### [Back to Top](#subtle-changes-in-programming-languages)
+> ```
 
 ##### C++
-```cpp
+> ```cpp
 string str = obj->ToString();
-```
-
-##### [Back to Top](#subtle-changes-in-programming-languages)
+> ```
 
 ##### C#
-```c#
+> ```c#
 string str = obj.ToString();
-```
-
-##### [Back to Top](#subtle-changes-in-programming-languages)
+> ```
 
 ##### Java
-```java
+> ```java
 int num = Integer.parseInt(str);
 
 String str= String.valueOf(num);
@@ -337,356 +309,415 @@ String str= String.valueOf(num);
 boolean bool = Boolean.parseBoolean(str);
 
 String str = String.valueOf(bool);
-```
-
-##### [Back to Top](#subtle-changes-in-programming-languages)
+> ```
 
 ##### Javascript
-```javascript
+> ```javascript
 var num = parseInt(str);
 
 var str = num.toString();
 
 var str = bool.toString();
-```
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 https://www.w3schools.com/js/js_type_conversion.asp
 
 ##### Pascal
-```
+> ```
 
-```
-##### [Back to Top](#subtle-changes-in-programming-languages)
+> ```
 
 ##### PHP
-```php
+> ```php
 
-```
-##### [Back to Top](#subtle-changes-in-programming-languages)
+> ```
 
 ##### Python
-```python
+> ```python
 type(variable)
 str = str(number)
-```
-##### [Back to Top](#subtle-changes-in-programming-languages)
+> ```
 
 ##### Ruby
-```ruby
+> ```ruby
 
-```
-##### [Back to Top](#subtle-changes-in-programming-languages)
+> ```
 
 ##### Scala
-```
+> ```scala
 
-```
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## If Statements
 
 ##### C
-```c
+> ```c
 
-```
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### C++
-```cpp
+> ```cpp
 
-```
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### C#
-```c#
-
-```
+> ```c#
+> if (conditional) {
+>   ...
+> }
+> else if (conditional) {
+>   ...
+> }
+> else {
+>   ...
+> }
+> ```
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Java
-```java
+> ```java
 > if (conditional){
->     ...
+>   ...
 > }
 > else if (conditional) {
->     ...
+>   ...
 > }
 > else {
->     ...
+>   ...
 > }
-```
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Javascript
-```javascript
+> ```javascript
 > if (conditional) {
->     ...
+>   ...
 > }
 > else if (conditional) {
->     ...
+>   ...
 > }
 > else {
->     ...
+>   ...
 > }
-```
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### Pascal
-```
-
-```
+> ```
+> If conditional
+>   Then
+>     Begin
+>       ...
+>     End
+>   Else
+>     Begin
+>       ...
+>     End;
+>
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ##### PHP
-```php
+> ```php
 > <?php
->     if (conditional) {
->         ...
->     } 
->     elseif (conditional) {
->         ...
->     } 
->     else {
->         ...
->     }
+>   if (conditional) {
+>     ...
+>   } 
+>   elseif (conditional) {
+>     ...
+>   } 
+>   else {
+>     ...
+>   }
 > ?>
-```
-##### [Back to Top](#subtle-changes-in-programming-languages)
+> ```
 
 ##### Python
-```python
+> ```python
 > if (conditional):
->     ...
+>   ...
 > elif (conditional):
->     ...
+>   ...
 > else:
->     ...
-```
-##### [Back to Top](#subtle-changes-in-programming-languages)
+>   ...
+> ```
 
 ##### Ruby
-```ruby
+> ```ruby
 > if conditional
->     ...
+>   ...
 > elsif conditional
->     ...
+>   ...
 > else
->     ...
+>   ...
 > end
-```
-##### [Back to Top](#subtle-changes-in-programming-languages)
+> ```
 
 ##### Scala
-```
-
-```
+> ```
+> 
+> ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Switch Statements
 
 ##### C
-```c
-
-```
+> ```c
+> 
+> ```
 
 ##### C++
-```cpp
-
-```
+> ```cpp
+> 
+> ```
 
 ##### C#
-```c#
-switch (variable) {
-    case 0:
-        ...
-        break;
-    case 1:
-        ...
-        break;
-    default:
-        ...
-        break;
-}
-```
+> ```c#
+> switch (variable) {
+>   case 0:
+>     ...
+>     break;
+>   case 1:
+>     ...
+>     break;
+>   default:
+>     ...
+>     break;
+> }
+> ```
 
 ##### Java
-```java
-
-```
+> ```java
+> switch (variable) {
+>   case 1:
+>     ...
+>     break;
+>   case 2:
+>     ...
+>     break;
+>   case 1:
+>     ...
+>     break;
+>   default:
+>     ...
+>     break;
+> }
+> ```
 
 ##### Javascript
-```javascript
-switch (variable) {
-    case 1:
-        ...
-        break;
-    case 2:
-        ...
-        break;
-    case 3:
-        ...
-        continue;
-    default:
-        ...
-        break;
-}
-```
+> ```javascript
+> switch (variable) {
+>   case 1:
+>     ...
+>     break;
+>   case 2:
+>     ...
+>     break;
+>   case 3:
+>     ...
+>     continue;
+>   default:
+>     ...
+>     break;
+> }
+> ```
 
 ##### Pascal
+> ```
+> Case variable Of
+>   1: Begin
+>        ...
+>      End;
+>   2: Begin
+>        ...
+>      End;
+>   3: Begin
+>        ...
+>      End;
+> End;
+> ```
 
 ##### PHP
-```php
-
-```
+> ```php
+>  
+> ```
 
 ##### Python
-```python
-N/A
-```
+> ```python
+> N/A
+> ```
 
 ##### Ruby
-```ruby
-case (variable) 
-    when 0
-        ...
-    when 1
-        ...
-    unless
-        ...    
-end
-```
+> ```ruby
+> case (variable) 
+>   when 0
+>     ...
+>   when 1
+>     ...
+>   unless
+>     ...    
+> end
+> ```
+
+##### Scala
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Arrays
 
 ##### C
-```c
+> ```c
 
-```
+> ```
 
 ##### C++
-```cpp
+> ```cpp
 
-```
+> ```
 
 ##### C#
-```c#
+> ```c#
 int[] arr = new int[10];
 
 Console.WriteLine(arr.Length);
-```
+> ```
 
 ##### Java
-```java
-int arr[] = new int[10];
+> ```java
+int[] arr = new int[10];
+
+int[] arrNumbers = new int[]{ 1, 2, 3, 4, 5};
 
 System.out.println(arr.length);
-```
+> ```
 
 ##### Javascript
-```javascript
+> ```javascript
 var arr = [];
 
+var arrNumbers = [ 1, 2, 3, 4, 5];
+
 console.log(arr.length);
-```
+> ```
 
 ##### Pascal
+> ```
+> 
+> ```
 
 ##### PHP
-```php
-
-```
+> ```php
+>
+> ```
 
 ##### Python
-```python
+> ```python
 arr = []
 
 print(len(arr))
-```
+> ```
 
 ##### Ruby
-```ruby
+> ```ruby
 arr = []
 
 puts(arr.length)
-```
+> ```
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## For Loops
 
 ##### C
-```c
+> ```c
 
-```
+> ```
 
 ##### C++
-```cpp
-for (int i = a; i < b; i++) {}
-```
+> ```cpp
+for (int i = a; i < b; i++) {
+  ...
+}
+> ```
 
 ##### C#
-```c#
-
-```
+> ```c#
+for (int i = a; i < b; i++) {
+  ...
+}
+> ```
 
 ##### Java
-```java
-for (int i = a; i < b; i++) {}
-```
+> ```java
+for (int i = a; i < b; i++) {
+  ...
+}
+> ```
 
 ##### Javascript
-```javascript
-for (var i = a; i < b; i++) {}
-```
+> ```javascript
+for (var i = a; i < b; i++) {
+  ...
+}
+> ```
 
 ##### Pascal
+> ```
+For i := a To b
+  Do ...
+> ```
 
 ##### PHP
-```php
+> ```php
 
-```
+> ```
 
 ##### Python
-```python
-for i in range(a,b):
-```
+> ```python
+> for i in range(a,b):
+>   ...
+> ```
 
 ##### Ruby
-```ruby
-
-```
+> ```ruby
+>
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## While Loops
 
 ##### C
-```c
-
-```
+> ```c
+>
+> ```
 
 ##### C++
-```cpp
-
-```
+> ```cpp
+>
+> ```
 
 ##### C#
-```c#
-
-```
+> ```c#
+> while (comparator) {
+>   ...
+> }
+> ```
 
 ##### Java
-```java
+> ```java
 while (comparator) {
     ...
 }
-```
+> ```
 
 ##### Javascript
-```javascript
+> ```javascript
 while (comparator) {
     ...
 }
@@ -695,158 +726,169 @@ do {
     ...
 }
 while (comparator);
-```
+> ```
 
 ##### Pascal
+> ```
+> While comparator
+>   Do
+>     Begin
+>       ...
+>     End;
+> ```
 
 ##### PHP
-```php
+> ```php
 
-```
+> ```
 
 ##### Python
-```python
-while (comparator):
-    ...
-```
+> ```python
+> while (comparator):
+>   ...
+> ```
 
 ##### Ruby
-```ruby
-
-```
+> ```ruby
+> 
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## RegExp
 
 ##### C
-```c
-
-```
+> ```c
+> 
+> ```
 
 ##### C++
-```cpp
-
-```
+> ```cpp
+> 
+> ```
 
 ##### C#
-```c#
-
-```
+> ```c#
+> 
+> ```
 
 ##### Java
-```java
-
-```
+> ```java
+>
+> ```
 
 ##### Javascript
-```javascript
-var str = /[a-z]/g;
-var str2 = /[a-zA-Z0-9]/g;
-```
+> ```javascript
+str.match(/[a-z]/gi);
+str.replace(/\bword\b/gi);
+str.replace(/!$/, '');
+> ```
 
 ##### Pascal
-```
-
-```
+> ```
+>
+> ```
 
 ##### PHP
-```php
-
-```
+> ```php
+>
+> ```
 
 ##### Python
-```python
-
-```
+> ```python
+>
+> ```
 
 ##### Ruby
-```ruby
-
-```
+> ```ruby
+>
+> ```
 
 ##### Scala
-```scala
-
-```
+> ```scala
+>
+> ```
 
 ## Functions
 
 ##### C
-```c
-
-```
+> ```c
+>
+> ```
 
 ##### C++
-```cpp
-
-```
+> ```cpp
+>
+> ```
 
 ##### C#
-```c#
-
-```
+> ```c#
+>
+> ```
 
 ##### Java
-```java
+> ```java
 public static int func(int a, int b) {
     ...
     return 0;
 }
-```
+> ```
 
 ##### Javascript
-```javascript
-function func(a,b) {
-    ...
-}
-```
+> ```javascript
+> function func(a,b) {
+>   ...
+> }
+> ```
 
 ##### Pascal
+> ```
+> 
+> ```
 
 ##### PHP
-```php
+> ```php
 
-```
+> ```
 
 ##### Python
-```python
+> ```python
 def func(a,b):
     ...
-```
+> ```
 
 ##### Ruby
-```ruby
+> ```ruby
 
-```
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Objects
 
 ##### C
-```c
+> ```c
 
-```
+> ```
 
 ##### C++
-```cpp
+> ```cpp
 
-```
+> ```
 
 ##### C#
-```c#
+> ```c#
 
-```
+> ```
 
 ##### Java
-```java
+> ```java
 public class obj {
     String name = "David";
     int age = 24;
 }
-```
+> ```
 
 ##### Javascript
-```javascript
+> ```javascript
 var obj = {
     name: "David",
     age: 24
@@ -855,94 +897,94 @@ var obj = {
 var obj2 = {}
 obj2.name = "David";
 obj2.age = 24;
-```
+> ```
 
 ##### Pascal
 
 ##### PHP
-```php
+> ```php
 
-```
+> ```
 
 ##### Python
-```python
+> ```python
 
-```
+> ```
 
 ##### Ruby
-```ruby
+> ```ruby
 
-```
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Inheritance
 
 ##### C
-```c
+> ```c
 
-```
+> ```
 
 ##### C++
-```cpp
+> ```cpp
 
-```
+> ```
 
 ##### C#
-```c#
+> ```c#
 
-```
+> ```
 
 ##### Java
-```java
+> ```java
 public class Child extends Parent {}
 
 public class Car extends Vehicle {
     ...
 }
-```
+> ```
 
 ##### Javascript
-```javascript
+> ```javascript
 
-```
+> ```
 
 ##### Pascal
 
 ##### PHP
-```php
+> ```php
 
-```
+> ```
 
 ##### Python
-```python
+> ```python
 
-```
+> ```
 
 ##### Ruby
-```ruby
+> ```ruby
 
-```
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Constructors
 
 ##### C
-```c
+> ```c
 
-```
+> ```
 
 ##### C++
-```cpp
+> ```cpp
 
-```
+> ```
 
 ##### C#
-```c#
+> ```c#
 
-```
+> ```
 
 ##### Java
-```java
+> ```java
 
 public class Vehicle {
   String make;
@@ -954,143 +996,126 @@ public class Vehicle {
 }
 
 Vehicle Car = new Vehicle("BMW", "M5");
-```
+> ```
 
 ##### Javascript
-```javascript
+> ```javascript
 
-```
+> ```
 
 ##### Pascal
 
 ##### PHP
-```php
+> ```php
 
-```
+> ```
 
 ##### Python
-```python
+> ```python
 
-```
+> ```
 
 ##### Ruby
-```ruby
+> ```ruby
 
-```
+> ```
 ##### [Back to Top](#subtle-changes-in-programming-languages)
 
 ## Exception Handlers
 
 ##### C
-```c
+> ```c
 
-```
+> ```
 
 ##### C++
-```cpp
+> ```cpp
 
-```
+> ```
 
 ##### C#
-```c#
+> ```c#
 
-```
+> ```
 
 ##### Java
-```java
+> ```java
 
-```
+> ```
 
 ##### Javascript
-```javascript
+> ```javascript
 
-```
+> ```
 
 ##### Pascal
 
 ##### PHP
-```php
+> ```php
 
-```
+> ```
 
 ##### Python
-```python
+> ```python
 
-```
+> ```
 
 ##### Ruby
-```ruby
+> ```ruby
 
-```
+> ```
 
 ## Nonsense
 
 ##### C
-```c
+> ```c
 
-```
+> ```
 
 ##### C++
-```cpp
+> ```cpp
 
-```
+> ```
 
 ##### C#
-```c#
+> ```c#
 
-```
+> ```
 
 ##### Java
-```java
+> ```java
 
-```
+> ```
 
 ##### Javascript
-```javascript
+> ```javascript
 
-```
+> ```
 
 ##### Pascal
-```
+> ```
 
-```
+> ```
 
 ##### PHP
-```php
+> ```php
 
-```
+> ```
 
 ##### Python
-```python
+> ```python
 
-```
+> ```
 
 ##### Ruby
-```ruby
+> ```ruby
 
-```
+> ```
 
 ##### Scala
-```scala
+> ```scala
 
-```
+> ```
 
 
 ##### [Back to Top](#subtle-changes-in-programming-languages)
-
-|Statements            | C | C++ | C# | Java | Javascript | Pascal | PHP | Python | Ruby |
-|:---:                |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Hello World!         | ➤ | ➤ | ➤ | [➤](#user-content-java) | [➤](#user-content-javascript) | ➤ | ➤ | ➤ | ➤ |
-| Declare Variable     | ➤ | ➤ | ➤ | [➤](#user-content-java-1) | [➤](#user-content-javascript-1) | ➤ | ➤ | ➤ | ➤ |
-| If/Else             | ➤ | ➤ | ➤ | [➤](#user-content-java-2) | [➤](#user-content-javascript-2) | ➤ | ➤ | ➤ | ➤ |
-| Switch Cases         | ➤ | ➤ | ➤ | [➤](#user-content-java-3) | [➤](#user-content-javascript-3) | ➤ | ➤ | ➤ | ➤ |
-| Arrays             | ➤ | ➤ | ➤ | [➤](#user-content-java-4) | [➤](#user-content-javascript-4) | ➤ | ➤ | ➤ | ➤ |
-| For Loops         | ➤ | ➤ | ➤ | [➤](#user-content-java-5) | [➤](#user-content-javascript-5) | ➤ | ➤ | ➤ | ➤ |
-| While Loops         | ➤ | ➤ | ➤ | [➤](#user-content-java-6) | [➤](#user-content-javascript-6) | ➤ | ➤ | ➤ | ➤ |
-| Functions         | ➤ | ➤ | ➤ | [➤](#user-content-java-7) | [➤](#user-content-javascript-7) | ➤ | ➤ | ➤ | ➤ |
-| Objects             | ➤ | ➤ | ➤ | [➤](#user-content-java-8) | [➤](#user-content-javascript-8) | ➤ | ➤ | ➤ | ➤ |
-| Inheritance         | ➤ | ➤ | ➤ | [➤](#user-content-java-9) | [➤](#user-content-javascript-9) | ➤ | ➤ | ➤ | ➤ |
-| Constructors         | ➤ | ➤ | ➤ | [➤](#user-content-java-10) | [➤](#user-content-javascript-10) | ➤ | ➤ | ➤ | ➤ |
-| Exception Handlers | ➤ | ➤ | ➤ | [➤](#user-content-java-11) | [➤](#user-content-javascript-11) | ➤ | ➤ | ➤ | ➤ |
-
-
